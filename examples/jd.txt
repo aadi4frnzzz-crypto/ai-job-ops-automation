@@ -1,0 +1,30 @@
+Position: Data Analyst
+Company: Flipkart
+Location: Bengaluru, Karnataka (Hybrid)
+
+About the Role:
+Flipkart is hiring a Data Analyst to join our Supply Chain Analytics team. You will work closely with operations, product, and business teams to drive data-driven decisions at scale.
+
+Responsibilities:
+- Build and maintain dashboards and reports for supply chain KPIs (order fill rate, OTIF, warehouse utilization)
+- Write complex SQL queries to extract and analyse data from large datasets (BigQuery, Redshift)
+- Develop Python scripts for data automation, reporting pipelines, and ad-hoc analysis
+- Collaborate with product managers and operations leads to define metrics and translate business questions into analytical frameworks
+- Present findings and recommendations to senior stakeholders (VPs, Directors)
+- Own the end-to-end analytics lifecycle: from requirement gathering to delivery
+
+Requirements:
+- 2-5 years of experience in data analysis, business analysis, or a related role
+- Strong SQL skills (window functions, CTEs, multi-table joins)
+- Proficiency in Python (pandas, numpy, data manipulation)
+- Experience with BI tools (Tableau, Looker, or Superset)
+- Excellent communication and stakeholder management skills
+- Experience working in e-commerce, logistics, or supply chain is a strong plus
+- Familiarity with cloud data warehouses (BigQuery, Snowflake, Redshift)
+
+Nice to Have:
+- Experience with dbt or data modeling tools
+- Knowledge of A/B testing methodologies
+- Exposure to machine learning concepts
+
+Compensation: 12-18 LPA based on experience
