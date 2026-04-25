@@ -1,0 +1,45 @@
+CANDIDATE PROFILE
+
+Name: [Your Name]
+Location: Kota, Rajasthan (Open to Bengaluru/remote)
+
+WORK EXPERIENCE:
+
+1. Technical Analyst | Google | Nov 2021 - Oct 2024 (3 years)
+   - Managed data pipelines and reporting for internal teams
+   - Handled data quality, monitoring dashboards, and stakeholder reporting
+   - Worked with cross-functional teams on data-driven decisions
+   - Used SQL for data extraction and Python for automation scripts
+
+2. Customer Service Executive | Webonflex | Prior to Google
+   - Handled client queries and escalation resolution
+   - Built understanding of customer operations and support workflows
+
+EDUCATION:
+- MBA (Distance) | Jaipur National University | 2026 | 69.13%
+- PG Diploma in Advanced Computing | C-DAC Bangalore | Feb 2018
+- B.Tech in Electrical Engineering | 2015 | 60%
+
+TECHNICAL SKILLS:
+- SQL (window functions, CTEs, JOINs, SQLite, basic PostgreSQL)
+- Python (pandas, requests, automation scripts)
+- GitHub (version control, GitHub Actions, CI/CD basics)
+- Data pipelines (ETL concepts, API integrations)
+- Business analysis (requirement gathering, stakeholder management)
+- AI tools (OpenAI API, n8n workflow automation, prompt engineering)
+
+PROJECTS (GitHub: github.com/aadi4frnzzz-crypto):
+- market-data-etl-pipeline: Production Python ETL with CoinGecko API, SQLite, GitHub Actions scheduler
+- sql-business-analytics-lab: 10 SQL KPI queries, cohort analysis, business findings report
+- ai-job-ops-automation: This very tool - AI cover letter and fit analysis automation
+
+CERTIFICATIONS / LEARNING:
+- Actively learning: Docker, Cloud basics, dbt, Tableau
+- Exploring: Algorithmic trading, agentic AI workflows
+
+STRENGTHS:
+- 3 years at Google builds immediate credibility
+- Strong SQL + Python combination rare at 2-3 YOE level
+- Built 3 real GitHub projects in April 2026 (before May 15 deadline)
+- MBA adds business acumen to technical profile
+- Self-motivated: manages own learning and project delivery
